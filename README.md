@@ -7,7 +7,7 @@ You will need a file discord\_creds.json with the following information:
 
 ```json
 {
-	"token": "YOUR DISCORD BOT TOKEN"
+	"token": "YOUR DISCORD BOT TOKEN",
 	"autorun": true
 }
 ```
@@ -18,9 +18,9 @@ You will also need a file twitter\_creds.json with the following information:
 
 ```json
 {
-	"consumer_key"        : "YOUR CONSUMER KEY"
-	"consumer_secret"     : "YOUR CONSUMER SECRET"
-	"access_token"        : "YOUR ACCESS TOKEN"
+	"consumer_key"        : "YOUR CONSUMER KEY",
+	"consumer_secret"     : "YOUR CONSUMER SECRET",
+	"access_token"        : "YOUR ACCESS TOKEN",
 	"access_token_secret" : "YOUR ACCESS TOKEN SECRET"
 }
 ```
