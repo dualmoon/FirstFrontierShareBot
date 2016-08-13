@@ -1,0 +1,5 @@
+node_modules/
+twitter_creds.json
+discord_creds.json
+**/*.swp
+

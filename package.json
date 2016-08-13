@@ -1,0 +1,18 @@
+{
+	"name": "fftwitterbot",
+	"version": "1.0.0",
+	"description": "Twitter resharing bot for First Frontier",
+	"repository": "https://github.com/dualmoon/FirstFrontierShareBot",
+	"main": "app.coffee",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Ashley Siobhan <luna@neko.lgbt>",
+	"license": "MIT",
+	"dependencies": {
+		"discord.io": "^1.13.4",
+		"jsonfile": "^2.3.1",
+		"twit": "^2.2.4",
+		"coffee-script": "^1.10.0"
+	}
+
